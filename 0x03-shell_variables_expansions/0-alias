@@ -1,4 +1,4 @@
 #!/bin/bash
 
-!alias ls="ls -la"
+alias ls="ls -la"
 
